@@ -1,0 +1,5 @@
+This is a file created after branch1 has been renamed to master in newsandbox using method from https://stackoverflow.com/questions/14243977/git-how-to-properly-merge-two-functional-and-quite-different-branches/14518201#14518201.
+Minor alterations:
+$ git push origin :master  didn't work for me, github wouldn't delete master branch.
+I had to ...
+$ git push -f origin master instead.
