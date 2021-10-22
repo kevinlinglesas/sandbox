@@ -1,1 +1,2 @@
 trigger (master) 2.0
+        (branch2) 1
