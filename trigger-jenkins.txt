@@ -1,4 +1,4 @@
 trigger (master) 2.1.1 
          feature change post 2.1.1
         (branch2) 1.0
-        (branch3) 1.1
+        (branch3) 1.2
