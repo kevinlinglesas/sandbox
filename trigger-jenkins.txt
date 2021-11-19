@@ -4,4 +4,5 @@ trigger (master) 2.1.1
         (branch3) 1.2
         (branch4) 1.1
 master - prior to name change
+master - change from local after branch name change
 
